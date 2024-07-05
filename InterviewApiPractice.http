@@ -1,0 +1,6 @@
+@InterviewApiPractice_HostAddress = http://localhost:5209
+
+GET {{InterviewApiPractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
